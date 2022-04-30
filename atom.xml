@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SoDaSheep.io</id>
-    <title>见证,记录,存放在记忆的沙漏里.</title>
+    <title>见证,记录,放在记忆的沙漏里.</title>
     <link href="https://SoDaSheep.io" />
     <updated>2022-04-30T03:04:49.750Z</updated>
     <category term="Hexo" />
