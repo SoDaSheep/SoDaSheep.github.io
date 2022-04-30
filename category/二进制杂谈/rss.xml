@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>见证,记录,放在记忆的沙漏里. • Posts by &#34;二进制杂谈&#34; category</title>
-        <link>https://SoDaSheep.io</link>
+        <link>https://SoDaSheep.github.io</link>
         <description>时不可兮骤得,聊逍遥兮容与~</description>
         <language>zh-CN</language>
         <pubDate>Thu, 13 Aug 2020 21:45:48 +0800</pubDate>
@@ -10,9 +10,9 @@
         <category>Hexo</category>
         <category>教程</category>
         <item>
-            <guid isPermalink="true">https://sodasheep.io/2020/08/13/special/</guid>
+            <guid isPermalink="true">https://sodasheep.github.io/2020/08/13/special/</guid>
             <title>Step.4 主题特殊功能</title>
-            <link>https://sodasheep.io/2020/08/13/special/</link>
+            <link>https://sodasheep.github.io/2020/08/13/special/</link>
             <category>Hexo</category>
             <category>教程</category>
             <pubDate>Thu, 13 Aug 2020 21:45:48 +0800</pubDate>
@@ -504,9 +504,9 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://sodasheep.io/2020/08/13/display/</guid>
+            <guid isPermalink="true">https://sodasheep.github.io/2020/08/13/display/</guid>
             <title>Step.3 界面显示</title>
-            <link>https://sodasheep.io/2020/08/13/display/</link>
+            <link>https://sodasheep.github.io/2020/08/13/display/</link>
             <category>Hexo</category>
             <category>教程</category>
             <pubDate>Thu, 13 Aug 2020 21:12:48 +0800</pubDate>
@@ -655,9 +655,9 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://sodasheep.io/2020/08/13/config/</guid>
+            <guid isPermalink="true">https://sodasheep.github.io/2020/08/13/config/</guid>
             <title>Step.2 基本配置</title>
-            <link>https://sodasheep.io/2020/08/13/config/</link>
+            <link>https://sodasheep.github.io/2020/08/13/config/</link>
             <category>Hexo</category>
             <category>教程</category>
             <pubDate>Thu, 13 Aug 2020 20:56:48 +0800</pubDate>
@@ -792,9 +792,9 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://sodasheep.io/2020/08/13/dependents/</guid>
+            <guid isPermalink="true">https://sodasheep.github.io/2020/08/13/dependents/</guid>
             <title>Step.1 依赖插件</title>
-            <link>https://sodasheep.io/2020/08/13/dependents/</link>
+            <link>https://sodasheep.github.io/2020/08/13/dependents/</link>
             <category>Hexo</category>
             <category>教程</category>
             <pubDate>Thu, 13 Aug 2020 20:46:48 +0800</pubDate>

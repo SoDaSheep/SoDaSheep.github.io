@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>见证,记录,放在记忆的沙漏里.</title>
-        <link>https://SoDaSheep.io</link>
+        <link>https://SoDaSheep.github.io</link>
         <description>时不可兮骤得,聊逍遥兮容与~</description>
         <language>zh-CN</language>
         <pubDate>Sat, 30 Apr 2022 11:04:49 +0800</pubDate>
@@ -10,9 +10,9 @@
         <category>Hexo</category>
         <category>教程</category>
         <item>
-            <guid isPermalink="true">https://sodasheep.io/2022/04/30/hello-world/</guid>
+            <guid isPermalink="true">https://sodasheep.github.io/2022/04/30/hello-world/</guid>
             <title>Hello World</title>
-            <link>https://sodasheep.io/2022/04/30/hello-world/</link>
+            <link>https://sodasheep.github.io/2022/04/30/hello-world/</link>
             <pubDate>Sat, 30 Apr 2022 11:04:49 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
@@ -30,9 +30,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://sodasheep.io/2020/08/13/special/</guid>
+            <guid isPermalink="true">https://sodasheep.github.io/2020/08/13/special/</guid>
             <title>Step.4 主题特殊功能</title>
-            <link>https://sodasheep.io/2020/08/13/special/</link>
+            <link>https://sodasheep.github.io/2020/08/13/special/</link>
             <category>Hexo</category>
             <category>教程</category>
             <pubDate>Thu, 13 Aug 2020 21:45:48 +0800</pubDate>
@@ -524,9 +524,9 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://sodasheep.io/2020/08/13/display/</guid>
+            <guid isPermalink="true">https://sodasheep.github.io/2020/08/13/display/</guid>
             <title>Step.3 界面显示</title>
-            <link>https://sodasheep.io/2020/08/13/display/</link>
+            <link>https://sodasheep.github.io/2020/08/13/display/</link>
             <category>Hexo</category>
             <category>教程</category>
             <pubDate>Thu, 13 Aug 2020 21:12:48 +0800</pubDate>
@@ -675,9 +675,9 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://sodasheep.io/2020/08/13/config/</guid>
+            <guid isPermalink="true">https://sodasheep.github.io/2020/08/13/config/</guid>
             <title>Step.2 基本配置</title>
-            <link>https://sodasheep.io/2020/08/13/config/</link>
+            <link>https://sodasheep.github.io/2020/08/13/config/</link>
             <category>Hexo</category>
             <category>教程</category>
             <pubDate>Thu, 13 Aug 2020 20:56:48 +0800</pubDate>
@@ -812,9 +812,9 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://sodasheep.io/2020/08/13/dependents/</guid>
+            <guid isPermalink="true">https://sodasheep.github.io/2020/08/13/dependents/</guid>
             <title>Step.1 依赖插件</title>
-            <link>https://sodasheep.io/2020/08/13/dependents/</link>
+            <link>https://sodasheep.github.io/2020/08/13/dependents/</link>
             <category>Hexo</category>
             <category>教程</category>
             <pubDate>Thu, 13 Aug 2020 20:46:48 +0800</pubDate>
